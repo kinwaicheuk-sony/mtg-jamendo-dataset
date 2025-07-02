@@ -305,6 +305,8 @@ Please consider citing [the following publication](https://repositori.upf.edu/ha
 
 Copyright 2019-2023 Music Technology Group
 
+Please note that the MTG-Jamendo Dataset is made available solely for non-commercial research and academic use. Any other use, including but not limited to commercial applications, requires prior written authorization from Jamendo S.A. For any commercial use requests, please contact Jamendo’s licensing team at hello@jamendo.com to obtain a license adapted to your project. Commercial use is defined as any use that is intended for or directed toward commercial advantage or monetary compensation, including but not limited to uses generating revenue through advertising, affiliate programs, or product integration.
+
 ## Acknowledgments
 
 This work was funded by the predoctoral grant MDM-2015-0502-17-2 from the Spanish Ministry of Economy and Competitiveness linked to the Maria de Maeztu Units of Excellence Programme (MDM-2015-0502). 
