@@ -23,6 +23,8 @@ Table of contents:
 * [Related Datasets](#related-datasets)
     + [Music Classification Annotations](#music-classification-annotations)
     + [Song Describer](#song-describer)
+    + [MuChoMusic](#muchomusic)
+    + [ManyMusic](#manymusic)
 * [Research challenges using the dataset](#research-challenges-using-the-dataset)
 * [Citing the dataset](#citing-the-dataset)
 * [License](#license)
@@ -271,6 +273,14 @@ We provide the subset of annotations with perfect inter-annotator agreement rang
 
 ### Song Describer
 [Song Describer Dataset](https://zenodo.org/records/10072001) contains ~1.1k captions for 706 permissively licensed music recordings. It is designed for use in evaluation of models that address music-and-language tasks such as music captioning, text-to-music generation and music-language retrieval. The dataset was built using the [Song Describer](https://song-describer.streamlit.app/) platform for crowdsourcing music captions (audio-text pairs) for audio tracks in MTG-Jamendo.
+
+
+### MuChoMusic
+[MuChoMusic](https://mulab-mir.github.io/muchomusic/) is a benchmark dataset for evaluating music understanding in multimodal audio-language models. It comprises 1187 multiple-choice questions, all validated by human annotators, associated with 644 music tracks sourced from two publicly available music datasets, including MTG-Jamendo.
+
+
+### ManyMusic
+[ManyMusic Stimuli](https://manymusic.net/stim/) is a music audio dataset designed for human experiments on musical emotions. This is part of the ManyMusic project, which aims to deep-phenotype affective experience evoked by music.
 
 
 ## Research challenges using the dataset
